@@ -4,7 +4,7 @@ I'm an experienced DevOps engineer with a deep understanding of Infrastructure a
 
 <br>
 
-<br>
+</br>
 <!--
 **tine-s/tine-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
