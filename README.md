@@ -2,7 +2,6 @@
 
 I'm an experienced DevOps engineer with a deep understanding of Infrastructure as Code and agile methodologies within cloud environmnets. ☁️
 
-<br>
 <!--
 **tine-s/tine-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,3 +39,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=tine-s&theme=github_vercel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
+  </p>
+
+##
+
+<p align="center" style="background:blue">
+  <a href="https://www.linkedin.com/in/tineseljak/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Tine%20Seljak-05122A?style=flat&logo=linkedin" alt="Linkedin"/>
+  </a>
