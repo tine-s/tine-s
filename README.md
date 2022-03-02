@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an experienced DevOps engineer with a deep understanding of Infrastructure as Code and agile methodologies within cloud environmnets.
+I'm an experienced DevOps engineer with a deep understanding of Infrastructure as Code and agile methodologies within cloud environmnets. ☁️
 <!--
 **tine-s/tine-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🛠 Current Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws">
