@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
   <img src="https://img.shields.io/badge/-ECS-05122A?style=flat&logo=ecs">
   <img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx">
+  <br>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
   <img src="https://img.shields.io/badge/-Github%20Actions-05122A?style=flat&logo=github">
